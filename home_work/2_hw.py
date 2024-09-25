@@ -5,6 +5,7 @@ def task_1() -> None:
     my_list = [1, 2, 3, 4, 5]
     my_bool = True
 
+
     print(type(my_int))
     print(type(my_float))
     print(type(my_str))
