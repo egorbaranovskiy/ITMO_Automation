@@ -3,7 +3,7 @@ def task_1() -> None:
     my_float = 3.14
     my_str = "Привет, мир!"
     my_list = [1, 2, 3, 4, 5]
-    my_bool = True  # bool
+    my_bool = True
 
     print(type(my_int))
     print(type(my_float))
